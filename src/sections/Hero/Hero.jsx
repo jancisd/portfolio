@@ -1,5 +1,5 @@
 import styles from './HeroStyles.module.css'
-import heroImg from '../../assets/hero-img.png'
+import heroImg from '../../assets/IMG_0499.png'
 import sun from '../../assets/sun.svg'
 import moon from '../../assets/moon.svg'
 import githubLight from '../../assets/github-light.svg'
@@ -37,7 +37,7 @@ function Hero() {
                 <br />
                 Delfin
             </h1>
-            <h2>Software Developer</h2>
+            <h2>Student Developer</h2>
             <span>
                 <a href="https://github.com/jancisd" target="_blank">
                     <img src={githubIcon} alt="Github Icon" />
